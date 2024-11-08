@@ -678,14 +678,14 @@ a:hover {
 .home header .header-desc .header-desc-imgs .header-desc-img {
   height: 80%;
   width: 47%;
-  background-image: url(./images/rooms/2.jpg);
+  background-image: url(/images/rooms/2.jpg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
 }
 .home header .header-desc .header-desc-imgs .header-desc-img:first-child {
   transform: translateY(100px);
-  background-image: url(./images/rooms/8.jpg);
+  background-image: url(/images/rooms/8.jpg);
 }
 .home main {
   background: rgb(31, 31, 31);
@@ -1585,7 +1585,7 @@ a:hover {
   }
 }
 .chambre .image-container {
-  background-image: url("./images/rooms/4.jpg");
+  background-image: url("/images/rooms/4.jpg");
   background-size: 100% cover;
   background-position: right center;
   background-repeat: no-repeat;

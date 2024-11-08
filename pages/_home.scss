@@ -246,13 +246,13 @@
         .header-desc-img {
           height: 80%;
           width: 47%;
-          background-image: url(./images/rooms/2.jpg);
+          background-image: url(/images/rooms/2.jpg);
           background-size: contain;
           background-repeat: no-repeat;
           background-position: center;
           &:first-child {
             transform: translateY(100px);
-            background-image: url(./images/rooms/8.jpg);
+            background-image: url(/images/rooms/8.jpg);
           }
         }
       }
