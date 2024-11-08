@@ -86,7 +86,6 @@
       }
     }
   }
-
   .menu-burger {
     @media screen and (max-width: $mq-mobile) {
       position: absolute;
@@ -224,4 +223,26 @@ a {
 .navbar-links {
   flex-direction: column;
   width: 100%;
+}
+
+#toggle-menu {
+  display: none;
+}
+
+#toggle-menu:checked {
+  #liste-deroulante {
+    display: block;
+  }
+}
+
+#liste-deroulante {
+  display: none;
+}
+#liste-deroulante {
+  display: none;
+  @media screen and (max-width: $mq-mobile-s) {
+    &:target {
+      display: block;
+    }
+  }
 }
