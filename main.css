@@ -1255,16 +1255,16 @@ a:hover {
   }
 }
 .home main section.rooms .rooms-container .rooms-card #rci-1 {
-  background-image: url("/images/restaurant/1.jpg");
+  background-image: url("./images/restaurant/1.jpg");
 }
 .home main section.rooms .rooms-container .rooms-card #rci-2 {
-  background-image: url("/images/spa/3.jpg");
+  background-image: url("./images/spa/3.jpg");
 }
 .home main section.rooms .rooms-container .rooms-card #rci-3 {
-  background-image: url("/images/spa/2.jpg");
+  background-image: url("./images/spa/2.jpg");
 }
 .home main section.rooms .rooms-container .rooms-card #rci-4 {
-  background-image: url("/images/spa/1.jpg");
+  background-image: url("./images/spa/1.jpg");
 }
 .home main section.rooms .rooms-container .rooms-card .rc-desc {
   width: 50%;
