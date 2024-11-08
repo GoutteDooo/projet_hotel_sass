@@ -246,13 +246,13 @@
         .header-desc-img {
           height: 80%;
           width: 47%;
-          background-image: url(/images/rooms/2.jpg);
+          background-image: url("images/rooms/2.jpg");
           background-size: contain;
           background-repeat: no-repeat;
           background-position: center;
           &:first-child {
             transform: translateY(100px);
-            background-image: url(/images/rooms/8.jpg);
+            background-image: url("images/rooms/8.jpg");
           }
         }
       }
@@ -470,15 +470,15 @@
             height: 1400px;
           }
           .chambers-img-container:nth-child(1) {
-            background-image: url(/images/rooms/1.jpg);
+            background-image: url("images/rooms/1.jpg");
           }
 
           .chambers-img-container:nth-child(2) {
-            background-image: url(/images/rooms/2.jpg);
+            background-image: url("images/rooms/2.jpg");
           }
 
           .chambers-img-container:nth-child(3) {
-            background-image: url(/images/rooms/3.jpg);
+            background-image: url("images/rooms/3.jpg");
           }
         }
         .chambers-img-containers.second-group {
@@ -495,12 +495,12 @@
             height: 900px;
           }
           .chambers-img-container:nth-child(1) {
-            background-image: url(/images/rooms/4.jpg);
+            background-image: url("images/rooms/4.jpg");
             order: 2;
           }
 
           .chambers-img-container:nth-child(2) {
-            background-image: url(/images/rooms/7.jpg);
+            background-image: url("images/rooms/7.jpg");
             order: 1;
           }
         }
@@ -533,16 +533,16 @@
             }
           }
           #rci-1 {
-            background-image: url(/images/restaurant/1.jpg);
+            background-image: url("images/restaurant/1.jpg");
           }
           #rci-2 {
-            background-image: url(/images/spa/3.jpg);
+            background-image: url("images/spa/3.jpg");
           }
           #rci-3 {
-            background-image: url(/images/spa/2.jpg);
+            background-image: url("images/spa/2.jpg");
           }
           #rci-4 {
-            background-image: url(/images/spa/1.jpg);
+            background-image: url("images/spa/1.jpg");
           }
           .rc-desc {
             width: 50%;
