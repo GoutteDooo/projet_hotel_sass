@@ -434,7 +434,7 @@ a:hover {
 }
 .home header .header-img-container {
   position: relative;
-  background: url("/images/slider/2.jpg");
+  background: url("images/slider/2.jpg");
   background-size: 125% cover;
   background-position: right center;
   background-repeat: no-repeat;
